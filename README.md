@@ -1,2 +1,2 @@
 # CoffeeMachine
-a simple coffee machina in kotlin
+a simple coffee machine in kotlin
